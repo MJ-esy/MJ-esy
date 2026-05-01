@@ -9,7 +9,7 @@ I am MJ and currently studying to be a 🌱Fullstack C#/.NET.
 From Malaysia, Residing in Sweden
 <br>
 
-- 🔭 I’m currently working on an exciting app as a School Project!!
+- 🔭 I’m currently working on my internship and final year project!
 - 📫 How to reach me: <a href="mailto:mj.eng.contact@gmail.com">mj.eng.contact@gmail.com</a>
 - 📈 Leveling up my frontend skills
 - ⚡ Fun fact: I have 2 cats 🐈🐈
