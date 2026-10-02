@@ -4,14 +4,13 @@
  alt="gif of Nux octodex with butterfly">
 
 <br>
-I am MJ and currently studying to be a 🌱Fullstack C#/.NET.
+I am MJ and currently working as a fullstack developer/research assistant.
+<br>
 
 From Malaysia, Residing in Sweden
 <br>
 
-- 🔭 I’m currently working on my internship and final year project!
 - 📫 How to reach me: <a href="mailto:mj.eng.contact@gmail.com">mj.eng.contact@gmail.com</a>
-- 📈 Leveling up my frontend skills
 - ⚡ Fun fact: I have 2 cats 🐈🐈
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 
